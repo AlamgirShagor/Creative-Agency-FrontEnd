@@ -1,0 +1,23 @@
+.sidebar{
+    background-color: #fff;
+    position: fixed;
+    color: #000000;
+}
+.sidebar li{
+    margin-bottom: 2em;
+    
+}
+.sidebar span{
+    color: #000;
+}
+.sidebar li:hover span{
+    display: inline-block;
+    transform: translate(5px);
+}
+.sidebar svg{
+    margin-right: 5px;
+    color: #000;
+}
+.sidebarLogo{
+    width: 150px;
+}

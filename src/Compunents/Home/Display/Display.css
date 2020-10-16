@@ -1,0 +1,5 @@
+.display{
+    background-color: #FBD062;
+    /* min-height: 684.53px; */
+    clip-path: polygon(0 0, 100% 0%, 100% 83%, 0% 100%);
+}

@@ -1,0 +1,32 @@
+.servicesImg{
+    width: 74px;
+    height: auto;
+}
+h2{
+    font-size: 25px;
+    font-weight: 600;
+    color: #2D2D2D;
+}
+h3{
+    font-size: 18px;
+}
+span{
+    color: #7AB259;
+}
+.services{
+    height: 220px;
+    border: none;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+.services:hover{
+    box-shadow: 3px 3px 20px gold;
+    transform: translate(10px);
+    -webkit-transform: translate(10px);
+    -moz-transform: translate(10px);
+    -ms-transform: translate(10px);
+    -o-transform: translate(10px);
+}

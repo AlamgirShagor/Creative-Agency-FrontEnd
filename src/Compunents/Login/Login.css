@@ -1,0 +1,11 @@
+.logo{
+    width: 150px;
+    margin-bottom: 20px;
+}
+.login{
+    height: 300px;
+}
+button.btn.login-btn.mb-2 {
+    border: 1px solid;
+    border-radius: 20px;
+}

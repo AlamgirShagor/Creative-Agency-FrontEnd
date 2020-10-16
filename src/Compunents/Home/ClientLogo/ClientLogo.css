@@ -1,0 +1,10 @@
+.ClientLogo{
+    width: 140px;
+    height: 36px;
+    margin: 0 auto;
+}
+@media only screen and (max-width: 600px) {
+    .ClientLogo{
+        margin-left: 100px;
+    }
+}
